@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasbiha Naeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="center" alt="img" width="400" src=https://media0.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif>
+<img align="right" alt="img" width="400" src=https://media0.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasbiha-naeem&label=Profile%20views&color=0e75b6&style=flat" alt="tasbiha-naeem" /> </p>
 
