@@ -1,3 +1,4 @@
+![logo](https://github.com/Tasbiha-Naeem/Tasbiha-Naeem/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Tasbiha Naeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="img" width="400" src=https://media0.giphy.com/media/h5vCZ5J3EJBQ7IkvO9/giphy.gif>
